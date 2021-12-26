@@ -1,6 +1,11 @@
 {
     "dependencies": {
-        "@project-serum/anchor": "^0.18.2"
+        "@project-serum/anchor": "^0.19.1-beta.1",
+        "@solana/wallet-adapter-base": "^0.8.1",
+        "@solana/wallet-adapter-react": "^0.14.1",
+        "@solana/wallet-adapter-react-ui": "^0.7.0",
+        "@solana/wallet-adapter-wallets": "^0.13.0",
+        "@solana/web3.js": "^1.31.0"
     },
     "devDependencies": {
         "chai": "^4.3.4",
