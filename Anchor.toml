@@ -1,5 +1,5 @@
 [programs.localnet]
-solana_counter = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_counter = "HUgqzu2CDqrCPxmbAzzo9YqPVw9hECyEzaMCgtttmjSL"
 
 [registry]
 url = "https://anchor.projectserum.com"
